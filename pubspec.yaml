@@ -1,5 +1,5 @@
 name: dart_io
-version: 0.0.2+try-two
+version: 0.0.5
 author: Thomas Caserta <tom@caserta.co.uk>
 description: Java-like io library
 homepage: https://github.com/TomCaserta/dart_io
