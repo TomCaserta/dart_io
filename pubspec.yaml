@@ -1,0 +1,7 @@
+name: DartIO
+version: 0.0.1
+author: Thomas Caserta <tom@caserta.co.uk>
+description: Java-like io library
+dependencies:
+  archive: any
+  fixnum: any
