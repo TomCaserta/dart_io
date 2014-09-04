@@ -1,4 +1,4 @@
-part of DataBuffer;
+part of dart_io;
 
 // TODO: Fix the UINT8LIST stuff below
 class DataOutput {

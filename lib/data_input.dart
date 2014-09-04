@@ -1,4 +1,4 @@
-part of DataBuffer;
+part of dart_io;
 
 class DataInput {
   Uint8List data;

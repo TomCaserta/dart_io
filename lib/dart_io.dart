@@ -1,4 +1,4 @@
-library DataBuffer;
+library dart_io;
 
 // Somewhat quick fix implementation of javas DataInput and DataOutput 
 import "dart:typed_data";

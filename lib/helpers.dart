@@ -1,4 +1,4 @@
-part of DataBuffer;
+part of dart_io;
 
 
 List<int> byte2bit (int byte) {
