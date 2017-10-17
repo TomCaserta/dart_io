@@ -43,7 +43,7 @@ class DataInput {
   }
   
   List<int> readBytes(int numBytes) {
-    if ((_offset + numBytes) < fileLength) {
+    if ((_offset + numBytes) <= fileLength) {
       int old_offset = _offset;
       _offset += numBytes;
       return data.getRange(old_offset, old_offset + numBytes).toList();
